@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on My personal blog - Datacuriosity</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My personal blog - Datacuriosity</description>
+    <image>
+      <title>My personal blog - Datacuriosity</title>
+      <url>http://localhost:1313/images/principal-cover.jpg</url>
+      <link>http://localhost:1313/images/principal-cover.jpg</link>
+    </image>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Catching Financial Crime: An AML Classifier Model Using Graph Neural Networks</title>
+      <link>http://localhost:1313/posts/01/aml_gnn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/01/aml_gnn/</guid>
+      <description>Implementing a topology-aware Graph Neural Network (GNN) to detect money laundering activities from synthetic transaction data, designed to perform under extreme real-world class imbalance.</description>
+    </item>
+  </channel>
+</rss>
