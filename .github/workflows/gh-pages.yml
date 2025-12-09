@@ -3,12 +3,11 @@ name: Deploy Hugo PaperMod Demo to Pages
 on:
   push:
     paths-ignore:
-      - "images/**"
       - "LICENSE"
       - "README.md"
     branches:
       - master
-      - exampleSite
+      - gh-pages
   workflow_dispatch:
     # manual run
     inputs:
@@ -47,7 +46,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          ref: exampleSite
+          ref: gh-pages
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
