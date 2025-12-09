@@ -3,7 +3,8 @@ title: "About me 👨‍💻"
 description: "Learn more about the author of this blog."
 url: "/about/"
 summary: "Discover the background, interests, and motivations of the author behind this blog."
-# cover: "/images/about-cover.jpeg"
+cover: 
+    image: "/images/about-cover.jpeg"
 ---
 
 
