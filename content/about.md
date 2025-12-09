@@ -14,15 +14,12 @@ Previously, I worked as a **Data Analyst at Farmacias Peruanas**, analyzing larg
 
 My experience also includes working as a **Data Scientist at Vida Software SAC**, where I developed statistical models and performed data preprocessing to segment clients by distributor location.
 
----
-
 ## 📄 Download my CV
 
 If you want more details about my professional experience, you can download my full résumé here:
 
-👉 **[Download CV (PDF)](/cv.pdf)**
+👉 **[Download CV (PDF)](https://drive.google.com/file/d/14q0jmwSw_nW36LMkY3BdZWPeFgqGLz-5/view?usp=sharing)**
 
----
 
 ## Education
 
@@ -32,7 +29,6 @@ If you want more details about my professional experience, you can download my f
 
 My academic foundation complements my professional practice, giving me a strong balance of theoretical and applied knowledge in data science, machine learning, and computer science.
 
----
 
 ## Skills and Tools
 
