@@ -5,8 +5,8 @@ url: "/about/"
 summary: "Discover the background, interests, and motivations of the author behind this blog."
 cover: 
     image: "/images/about-cover.jpeg"
+hideFooterSocials: true
 ---
-
 
 I am a data scientist and compliance professional with strong experience in advanced analytics, machine learning, and financial crime prevention. Currently, I serve as **Subgerente Adjunto de Cumplimiento** at **Banco de Crédito BCP**, where I design and implement **anti–money laundering (AML)** scenarios, build **fraud detection models**, and deploy scalable solutions using **Azure Databricks**, **MLflow**, and modern data platforms.
 
@@ -14,6 +14,15 @@ Previously, I worked as a **Data Analyst at Farmacias Peruanas**, analyzing larg
 
 My experience also includes working as a **Data Scientist at Vida Software SAC**, where I developed statistical models and performed data preprocessing to segment clients by distributor location.
 
+---
+
+## 📄 Download my CV
+
+If you want more details about my professional experience, you can download my full résumé here:
+
+👉 **[Download CV (PDF)](/cv.pdf)**
+
+---
 
 ## Education
 
@@ -23,6 +32,7 @@ My experience also includes working as a **Data Scientist at Vida Software SAC**
 
 My academic foundation complements my professional practice, giving me a strong balance of theoretical and applied knowledge in data science, machine learning, and computer science.
 
+---
 
 ## Skills and Tools
 
@@ -31,7 +41,7 @@ My academic foundation complements my professional practice, giving me a strong 
 - Machine learning and AI  
 - Data analysis and governance  
 - Cloud solutions (AWS, Google Cloud)  
-- Modern data tools (Azure Databricks, MLflow, Google BigQuery)
+- Modern data tools (Azure Databricks, MLflow, Google BigQuery)  
 - Programming languages (Python, R, SQL)
 
 I am passionate about leveraging data to build impactful, responsible, and scalable solutions. I enjoy working on projects that combine technology with real-world challenges—especially in financial crime prevention—and I’m always open to collaborating on innovative ideas. Let's connect!
