@@ -1,5 +1,5 @@
 ---
-date: '{{ .Date }}'
+date: '{{ page.date }}'
 draft: true
-title: '{{ replace .File.ContentBaseName "-" " " | title }}'
+title: '{{ replace page.File.ContentBaseName "-" " " | title }}'
 ---
