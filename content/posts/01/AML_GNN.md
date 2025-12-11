@@ -5,7 +5,7 @@ tags: ["GNN", "Imbalanced Classification", "Financial Crime"]
 ---
 
 
-This project tackles one of the most challenging problems in financial security: **Anti-Money Laundering (AML)** detection. We implemented a cutting-edge **Graph Neural Network (GNN)**-based classifier to identify potential money laundering (ML) activities using synthetic transaction data.
+This project tackles one of the most challenging problems in financial security: **Anti-Money Laundering (AML) detection 🔎**. We implemented a cutting-edge **Graph Neural Network (GNN)**-based classifier to identify potential money laundering (ML) activities using synthetic transaction data.
 
 Our core innovation is modeling the financial ecosystem as a complex graph structure and developing a custom, **topology-aware strategy** to handle the extreme class imbalance inherent in real-world AML datasets ($<0.1\%$ suspicious cases).
 
