@@ -114,5 +114,5 @@ This project delivers an **end-to-end AML graph learning pipeline** that is uniq
   * **GAT Architecture:** Optimized for capturing directional and weighted importance in transaction flows.
   * **Real-World Imbalance:** Model training and evaluation preserve realistic class proportions.
 
-Find the complete code and detailed documentation on GitHub: [Link](https://www.google.com/search?q=%5Bhttps://github.com/cesar1091/AML-Graph-Neural-Network-Imbalance-Classification%5D\(https://github.com/cesar1091/AML-Graph-Neural-Network-Imbalance-Classification\))
+Find the complete code and detailed documentation on GitHub: [Link](https://github.com/cesar1091/AML-Graph-Neural-Network-Imbalance-Classification)
 
