@@ -18,7 +18,7 @@ My experience also includes working as a **Data Scientist at Vida Software SAC**
 
 If you want more details about my professional experience, you can download my full résumé here:
 
-👉 **[Download CV (PDF)](https://drive.google.com/file/d/14q0jmwSw_nW36LMkY3BdZWPeFgqGLz-5/view?usp=sharing)**
+👉 **[Download CV (PDF)](https://drive.google.com/file/d/1QhjnMjgVGYCh7LxS339l3SGYIJEpLMMb/view?usp=sharing)**
 
 
 ## Education
