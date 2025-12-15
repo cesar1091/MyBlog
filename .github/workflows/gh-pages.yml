@@ -6,7 +6,6 @@ on:
       - "LICENSE"
       - "README.md"
     branches:
-      - master
       - gh-pages
   workflow_dispatch:
     # manual run
