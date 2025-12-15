@@ -16,7 +16,7 @@ Money laundering is fundamentally a crime of **relationships and flow**. Suspici
 
 To capture this relational context, we model the financial ecosystem as an **Attributed Transaction Graph** .
 
-  * **Nodes (Clients):** Represent customers.
+  * **Nodes (Clients):** Represent customers of the bank.
   * **Edges (Transactions):** Represent financial interactions or transfers between clients.
   * **Attributes:** Both nodes and edges are enriched with important AML-related features.
 
