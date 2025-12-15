@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Series on My personal blog - Datacuriosity</title>
-    <link>http://localhost:1313/MyBlog/series/</link>
+    <link>http://localhost:1313/series/</link>
     <description>Recent content in Series on My personal blog - Datacuriosity</description>
     <image>
       <title>My personal blog - Datacuriosity</title>
-      <url>http://localhost:1313/MyBlog/images/principal-cover.jpg</url>
-      <link>http://localhost:1313/MyBlog/images/principal-cover.jpg</link>
+      <url>http://localhost:1313/images/principal-cover.jpg</url>
+      <link>http://localhost:1313/images/principal-cover.jpg</link>
     </image>
     <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/MyBlog/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
